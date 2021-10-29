@@ -9,8 +9,10 @@ Add the GitHub raw url for dist/reactable.js as the main address for the Looker 
 
 Under Advanced Options -> Dependencies, add: 
 
-https://unpkg.com/react@17/umd/react.development.js
-https://unpkg.com/react-dom@17/umd/react-dom.development.js
+https://unpkg.com/react@17/umd/react.development.js  
+
+https://unpkg.com/react-dom@17/umd/react-dom.development.js  
+
 https://unpkg.com/reactable@1.1.0/bower_components/jquery/src/sizzle/dist/sizzle.min.js×
 
 ## Dev Hints
